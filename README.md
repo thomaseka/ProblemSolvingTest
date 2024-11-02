@@ -1,3 +1,3 @@
 ## Problem Solving Exercise
 
-Solving problem from various
+Solving problems from various coding exercise websites and other sources.
